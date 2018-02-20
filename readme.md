@@ -3,5 +3,5 @@ Credit to:
 
 How to:
 
-Passwarod Constrains:
+Password Constrains:
 
