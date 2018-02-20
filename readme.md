@@ -1,1 +1,7 @@
-This is a branch dedicated to deliver the login feature.
+------------------The Login Feature-----------------
+Credit to:
+
+How to:
+
+Passwarod Constrains:
+
